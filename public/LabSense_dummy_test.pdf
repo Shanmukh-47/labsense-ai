@@ -1,0 +1,79 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Count 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [ 0 0 612 792 ]
+  /Contents 5 0 R
+  /Resources <<
+    /Font << /F1 4 0 R >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+5 0 obj
+<<
+  /Length 612
+>>
+stream
+BT
+/F1 14 Tf
+54 730 Td
+18 TL
+(Title: LabSense AI - Dummy Upload Test) Tj
+T*
+/F1 10 Tf
+14 TL
+T*
+(This is a sample document created only to test PDF upload handling.) Tj T*
+T*
+(Document ID: TEST-001) Tj T*
+(Date: 2026-10-02) Tj T*
+T*
+(This document contains no clinical test names, no measured values, and no reference ranges.) Tj T*
+T*
+(Expected application behavior:) Tj T*
+T*
+(* PDF upload should succeed.) Tj T*
+(* The parser should detect zero clinical tests.) Tj T*
+(* The application must not invent or hallucinate any test results.) Tj T*
+(* The review screen should show its empty-state message.) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000068 00000 n 
+0000000133 00000 n 
+0000000277 00000 n 
+0000000353 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+1018
+%%EOF
